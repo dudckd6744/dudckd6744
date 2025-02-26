@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in open-source contribu
 - 🌱 I’m constantly learning and exploring new technologies
 - 👯 I’m looking to collaborate on exciting and impactful projects
 - 💬 Ask me about anything related to software development
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [dudckd9650@gmail.com](mailto:dudckd9650@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and puzzles
 
