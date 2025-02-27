@@ -25,12 +25,6 @@ I'm a passionate software developer with a keen interest in open-source contribu
 ![dudckd6744's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudckd6744&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudckd6744&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/dudckd6744](https://www.linkedin.com/in/dudckd6744)
-- Twitter: [twitter.com/dudckd6744](https://twitter.com/dudckd6744)
-- Personal Website: [dudckd6744.dev](https://dudckd6744.dev)
-
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 Thanks for visiting! 😄
